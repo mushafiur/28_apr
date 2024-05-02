@@ -1,0 +1,16 @@
+.text1{color: red; background-color:yellow;}
+.border1{
+	border:1px solid green; 
+}
+#b_font{
+	font-size: 50px;
+}
+.box{
+	width: 500px;
+	height: 450px;
+	background-color: #27a4a4;
+}
+
+a:visited{
+	color:green;
+}
